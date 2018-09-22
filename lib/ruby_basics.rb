@@ -23,5 +23,7 @@ def last_evaluated_value
 end
 
 def pizza_party
-
+  if self.nil? 
+  else 
+  end
 end
