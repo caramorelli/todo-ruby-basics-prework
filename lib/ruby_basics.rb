@@ -25,5 +25,6 @@ end
 def pizza_party
   if self.nil? 
   else 
+    self
   end
 end
