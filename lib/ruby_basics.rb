@@ -24,4 +24,5 @@ end
 
 def pizza_party
   self = 'cheese' if self.nil?
+  self
 end
