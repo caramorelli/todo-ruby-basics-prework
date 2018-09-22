@@ -22,7 +22,6 @@ def last_evaluated_value
 
 end
 
-def pizza_party(topping)
-  self = 'cheese' if self.nil?
-  self
+def pizza_party(topping = 'cheese')
+ topping
 end
